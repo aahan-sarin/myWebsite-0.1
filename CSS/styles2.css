@@ -1,0 +1,65 @@
+body{
+margin: 0;
+text-align: center;
+
+}
+.top{
+  background-color: turquoise;
+margin: 0;
+width:  auto;
+box-shadow: 20px 20px 50px 10px black;
+}
+
+h2{
+font-family: 'Turret Road', cursive;
+  font-size:2.5rem;
+  padding-bottom: 10;
+}
+span{
+  text-decoration: underline;
+  font-size:2.5rem;
+  margin-bottom: 10;
+}
+h1{
+  font-size:4.5rem;
+  margin-top: 10;
+  color:black;
+  font-family: 'Satisfy', cursive;
+}
+.mid{
+  padding: 20;
+  background-color: orange;
+  box-shadow: 20px 20px 50px 10px black;
+  width: auto;
+
+}
+.hi{
+  font-size:5.5rem;
+
+  color:green;
+  font-family: serif;
+}
+.c{
+  background-color: #8ac6d1;
+  box-shadow: 20px 20px 50px 10px black;
+  width: auto;
+}
+
+li{
+  font-size:1.5rem;
+  line-height:2;
+  list-style-type: none;
+}
+.skillrow{
+  display: block;
+  width: 50%;
+  margin: 50px auto 100px auto ;
+  text-align: left;
+}
+.Hobbies{
+width: 25%;
+float: left;
+position: relative;
+bottom:100;
+margin-right: 30px;
+}
